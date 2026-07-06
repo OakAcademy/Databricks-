@@ -1,0 +1,3 @@
+SELECT * FROM course_training_catalog.dlt_pipeline_schema.order_items_stg;
+SELECT * FROM course_training_catalog.dlt_pipeline_schema.order_items_enriched;
+SELECT * FROM course_training_catalog.dlt_pipeline_schema.order_items_summary;
