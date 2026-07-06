@@ -1,4 +1,0 @@
-SELECT DISTINCT customer_segment
-FROM course_training_catalog.bronze_ecommerce_orders.silver_us_ecommerce_orders
-WHERE customer_segment IS NOT NULL
-ORDER BY customer_segment;
