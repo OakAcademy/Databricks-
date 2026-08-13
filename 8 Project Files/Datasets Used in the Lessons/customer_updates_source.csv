@@ -1,0 +1,21 @@
+customer_id,customer_name,membership_level,city,email,operation_ts
+1,Emily Carter,Standard,New York,emily.carter@example.com,2026-05-01 09:15:00
+2,James Wilson,Silver,Chicago,james.wilson@example.com,2026-05-01 09:18:00
+3,Sophia Brown,Gold,Boston,sophia.brown@example.com,2026-05-01 09:22:00
+4,Daniel Moore,Standard,Seattle,daniel.moore@example.com,2026-05-01 09:30:00
+5,Olivia Taylor,Premium,San Francisco,olivia.taylor@example.com,2026-05-01 09:35:00
+6,Liam Anderson,Silver,Miami,liam.anderson@example.com,2026-05-01 09:40:00
+7,Ava Martinez,Gold,Dallas,ava.martinez@example.com,2026-05-01 09:45:00
+8,Noah Thompson,Standard,Denver,noah.thompson@example.com,2026-05-01 09:50:00
+9,Isabella White,Premium,Atlanta,isabella.white@example.com,2026-05-01 09:55:00
+10,William Harris,Silver,Phoenix,william.harris@example.com,2026-05-01 10:00:00
+11,Mia Clark,Gold,Las Vegas,mia.clark@example.com,2026-05-01 10:05:00
+12,Benjamin Lewis,Standard,Portland,benjamin.lewis@example.com,2026-05-01 10:10:00
+13,Charlotte Walker,Premium,Austin,charlotte.walker@example.com,2026-05-01 10:15:00
+14,Elijah Hall,Silver,Orlando,elijah.hall@example.com,2026-05-01 10:20:00
+15,Amelia Young,Gold,San Diego,amelia.young@example.com,2026-05-01 10:25:00
+16,Lucas King,Standard,Detroit,lucas.king@example.com,2026-05-01 10:30:00
+17,Harper Scott,Premium,Houston,harper.scott@example.com,2026-05-01 10:35:00
+18,Henry Green,Silver,Philadelphia,henry.green@example.com,2026-05-01 10:40:00
+19,Evelyn Adams,Gold,Charlotte,evelyn.adams@example.com,2026-05-01 10:45:00
+20,Alexander Baker,Standard,Columbus,alexander.baker@example.com,2026-05-01 10:50:00
