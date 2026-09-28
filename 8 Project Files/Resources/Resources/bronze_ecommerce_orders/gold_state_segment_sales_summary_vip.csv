@@ -1,0 +1,9 @@
+state,customer_segment,total_orders,total_sales_amount,avg_delivery_days
+CA,vip,152,174211.27,4.15
+TX,vip,142,177265.88,3.87
+FL,vip,54,64470.14,4.06
+IL,vip,73,75311.2,3.97
+MA,vip,72,93822.11,4.05
+AZ,vip,65,72863.56,4.23
+WA,vip,66,74801.08,3.93
+NY,vip,71,75486.19,4.21

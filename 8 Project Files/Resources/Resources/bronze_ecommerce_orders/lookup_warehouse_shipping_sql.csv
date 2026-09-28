@@ -1,0 +1,10 @@
+warehouse_code,shipping_type
+WH-TX-03,standard
+WH-NY-01,express
+WH-CA-02,standard
+WH-NY-01,standard
+WH-TX-03,same_day
+WH-CA-02,same_day
+WH-CA-02,express
+WH-TX-03,express
+WH-NY-01,same_day
